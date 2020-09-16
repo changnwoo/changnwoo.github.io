@@ -1,0 +1,19 @@
+.title {
+  color: #02ccba;
+}
+
+.one{
+  height:300px;
+  margin:auto;
+  
+}
+
+.one h2{
+  color:red;
+  font-size: 30px;
+}
+
+.one p{
+  color:blue;
+  font-size:12px;
+}
